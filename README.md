@@ -7,7 +7,7 @@ My Name is Mahdi Afshar
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Basic Django Projects
-- 🌱 I’m currently learning Django Framework, SQL, Docker
+- 🌱 I’m currently learning Django Framework, Django REST Framework, CBV, SQL, Docker
 - 👯 I’m looking to collaborate on Backend development with Django or Python
 - 🤔 I’m looking for help with developing a telegram bot, please send source codes
 - 💬 Talk to me about Django, Pyhton, Docker, SQL, Git, Games, Movies, Series, Anime, Books, AI, Tech
