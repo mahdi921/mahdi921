@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   * Email: mahdi.afshar.dev@outlook.com
   * Telegram: https://t.me/itsMahdiAfshar
   * Instagram: https://www.instagram.com/itsmahdiafshar
-  <!--* X: https://x.com/MahdiAfsharDev-->
+  * X: https://x.com/MahdiAfsharDev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started professional programming at the age of 29
 
